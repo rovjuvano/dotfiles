@@ -1,0 +1,1 @@
+alias rcp='rsync -rtP'

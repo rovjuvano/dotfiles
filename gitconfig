@@ -1,0 +1,6 @@
+[color]
+	ui=auto
+[merge]
+	tool = vimdiff
+[alias]
+	dog = "log --graph --decorate --format='%Cred%h%Creset%C(yellow)%d%Creset %s %Cgreen(%ar) %C(bold blue)%Creset'"
