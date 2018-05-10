@@ -12,6 +12,7 @@ if [[ -n "${PS1}" ]]; then
     rust.sh
     scratch.sh
     serve.sh
+    asdf.sh
   )
   for RC_FILE in "${RC_FILES[@]}"; do
     source "${HOME}/.bash.d/${RC_FILE}"
